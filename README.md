@@ -7,7 +7,7 @@
 
 
 *minha biografia*
-  Olá, seja bem vindo ao meu aplicativo
+  Olá, seja bem vindo ao meu aplicativo>
  Meu nome é Eliane Nogueira,
    apelido lili,dona de casa ,estudante,
  trabalho desde muito cedo,crio um filho sozinha,solteira,nascida no estado do Piaui 
