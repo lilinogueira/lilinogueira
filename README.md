@@ -1,16 +1,22 @@
-### Hi there 👋
+# lilinogueira.github.io
 
-<!--
-**lilinogueira/lilinogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Eliane**
+## 2°paragrafo ##
+### 3°paragrafo ###
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+*minha biografia*
+  Olá, seja bem vindo ao meu aplicativo
+ Meu nome é Eliane Nogueira,
+   apelido lili,dona de casa ,estudante,
+ trabalho desde muito cedo,crio um filho sozinha,solteira,nascida no estado do Piaui 
+ já morei em alguns estados ,tipo de música, gospel, evangélica, seis irmãos,pais já falecidos
+ __Gosto de viajar quando possivel,uma pessoa prestativa,atenciosa, gosto muito de ajudar as pessoas 
+ sempre que posssivel,uma pessoa bastante paciente__
+ estou sempre em busca de coisas novas para agregar conhecimentos
+  Atualmente fazendo o curso de desenvolvedor de aplicativo para android
+ pretendo sempre estar atualizada com todos os acontecimentos, já fiz o curso
+ de excel oferecido pela secretaria do trabalho do distrito federal um curso bastante proveitoso
+ Desejo continuar me aperfeiçoando cada vez mais e aproveitar a oportunidade
+	de estar fazendo mais cursos para o enriquecimento do meu curriculum.
